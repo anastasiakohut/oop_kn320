@@ -21,7 +21,7 @@
     print("b", True)
     print("c", None)
     ```
-    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/scr/scr1.jpg "Результат виконання програми")
+    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/lab2/scr/scr1.jpg "Результат виконання програми")
 
 
     3. Виведено результат роботи вбудованих функцій:
@@ -29,7 +29,7 @@
     print(pow(2,7))
     print(int(2362))
     ```
-    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/scr/scr2.jpg "Результат виконання програми")
+    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/lab2/scr/scr2.jpg "Результат виконання програми")
 
     4. Написано код, який демонструє роботу циклів:
     ```python
@@ -37,7 +37,7 @@
     for i in range(len(chyslo)):
         print(f"На позиції {i} знаходиться  {chyslo[i]}")
     ```
-    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/scr/scr3.jpg "Результат виконання програми")
+    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/lab2/scr/scr3.jpg "Результат виконання програми")
 
     5. Написано код, який демонструє роботу розгалужень:
     ```python
@@ -49,7 +49,7 @@
         elif A == False:
             print("А - брехня")
     ```
-    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/scr/scr4.jpg "Результат виконання програми")
+    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/lab2/scr/scr4.jpg "Результат виконання програми")
 
     6. Написано свій варіант коду з помилкою:
     ```python
@@ -61,7 +61,7 @@
             finally:
                 print("Число підходить" if a>0 else "Введіть інше значення а")
     ```
-    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/scr/scr5.jpg "Результат виконання програми")
+    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/lab2/scr/scr5.jpg "Результат виконання програми")
 
     7. Написано код з контекст-менеджером:
     ```python
@@ -72,7 +72,7 @@
         for line in f:
             print(line)
     ```
-    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/scr/scr6.jpg "Результат виконання програми")
+    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/lab2/scr/scr6.jpg "Результат виконання програми")
 
     8.  Написано код та як Ви розумієте Лямбди:
     ```python
@@ -84,7 +84,7 @@
     lambda_second = lambda first, last: f'Сьогодні перша пара - {first}; а друга - {last}.'
     print(lambda_second('ООП', 'Бізнес-планування'))
     ```
-    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/scr/scr7.jpg "Результат виконання програми")
+    ![alt text](https://github.com/anastasiakohut/oop_kn320/raw/main/lab2/scr/scr7.jpg "Результат виконання програми")
    
 
 
